@@ -1,0 +1,12 @@
+pandas
+webvtt-py
+pysrt
+nltk
+opencv-python
+pytesseract
+matplotlib
+dash
+dcc
+html
+Input
+Output
